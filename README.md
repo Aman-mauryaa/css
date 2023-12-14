@@ -1,3 +1,3 @@
 # css
 This is my first repository <br>
-Auhor-Aman Maurya
+Auhor-Aman Maurya (apna college)
